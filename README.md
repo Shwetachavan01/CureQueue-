@@ -1,5 +1,6 @@
 # CureQueue: 
 HOSPITAL AND CLINIC WAITING TIME TRACKER 
+
 CureQueue is a smart, web-based solution designed to address outpatient service issues by digitizing and
 optimizing them.
 The platform provides patients with real-time visibility into hospital and clinic queue lengths, allows them to
